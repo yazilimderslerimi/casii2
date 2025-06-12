@@ -1,7 +1,8 @@
-<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.sitemaps.org/schemas/sitemap/0.9 http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd">
-<!--  created with Free Online Sitemap Generator www.xml-sitemaps.com  -->
-<url>
-<loc>https://casibom810guncel.vercel.app/</loc>
-<lastmod>2025-06-12T08:55:18+00:00</lastmod>
-</url>
-</urlset>
+User-agent: *
+Disallow:
+Sitemap: https://casibom810guncel.vercel.app/sitemap.xml
+Crawl-delay: 5
+# Belirli dosyaların indekslenmesine izin
+Allow: /images/
+Allow: /css/
+Allow: /js/
